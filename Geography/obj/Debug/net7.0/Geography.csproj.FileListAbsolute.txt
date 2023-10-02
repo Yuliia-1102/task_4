@@ -1,0 +1,15 @@
+/Users/macbook/Projects/4_Task/Geography/bin/Debug/net7.0/Geography
+/Users/macbook/Projects/4_Task/Geography/bin/Debug/net7.0/Geography.deps.json
+/Users/macbook/Projects/4_Task/Geography/bin/Debug/net7.0/Geography.runtimeconfig.json
+/Users/macbook/Projects/4_Task/Geography/bin/Debug/net7.0/Geography.dll
+/Users/macbook/Projects/4_Task/Geography/bin/Debug/net7.0/Geography.pdb
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.csproj.AssemblyReference.cache
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.AssemblyInfoInputs.cache
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.AssemblyInfo.cs
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.dll
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/refint/Geography.dll
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.pdb
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/Geography.genruntimeconfig.cache
+/Users/macbook/Projects/4_Task/Geography/obj/Debug/net7.0/ref/Geography.dll
